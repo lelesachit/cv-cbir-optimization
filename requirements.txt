@@ -4,3 +4,7 @@ scipy
 opencv-python
 pandas
 matplotlib
+scikit-image
+Pillow
+tensorflow
+keras
